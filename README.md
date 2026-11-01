@@ -1,2 +1,15 @@
 # COS-201-Programming-1
-COS 201 Week 1 practical exercises and programming assignments.
+## Week 1: introduction to programming and problem solving
+### student Details
+Name: Adetifa Oluwafisayo James
+Programme: Computer science
+course code: COS 201
+### Practical Exercise
+created and executed my first java programme.
+### File
+week01/FirstProgram.java
+### Skills Practised
+java class and main method
+output statements
+compilation and execution
+github version control
